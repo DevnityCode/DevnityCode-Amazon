@@ -1,5 +1,5 @@
 # # 🌐 Global Online Store
-[![Amazon](Capture.PNG)](https://amazon-clone-theta-dun.vercel.app/)
+[![Amazon](Capture11.PNG)](https://amazon-clone-theta-dun.vercel.app/)
 Welcome to the **Global Online Store**, the ultimate platform where you can browse, buy, and order **any product from around the world**. The store is seamlessly integrated with [Stripe](https://stripe.com) to ensure secure and efficient payment processing.
 
 ## 🔗 Live Demo
